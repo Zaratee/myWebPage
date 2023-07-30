@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myWebPage/static/css/main.73f1eadf.css",
-    "main.js": "/myWebPage/static/js/main.1f1e4aec.js",
+    "main.css": "/myWebPage/static/css/main.c1f662f3.css",
+    "main.js": "/myWebPage/static/js/main.251c4644.js",
     "static/js/787.28cb0dcd.chunk.js": "/myWebPage/static/js/787.28cb0dcd.chunk.js",
     "static/media/Blaka-Regular.ttf": "/myWebPage/static/media/Blaka-Regular.7d3730de71b2d9ed9e29.ttf",
     "index.html": "/myWebPage/index.html",
-    "main.73f1eadf.css.map": "/myWebPage/static/css/main.73f1eadf.css.map",
-    "main.1f1e4aec.js.map": "/myWebPage/static/js/main.1f1e4aec.js.map",
+    "main.c1f662f3.css.map": "/myWebPage/static/css/main.c1f662f3.css.map",
+    "main.251c4644.js.map": "/myWebPage/static/js/main.251c4644.js.map",
     "787.28cb0dcd.chunk.js.map": "/myWebPage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73f1eadf.css",
-    "static/js/main.1f1e4aec.js"
+    "static/css/main.c1f662f3.css",
+    "static/js/main.251c4644.js"
   ]
 }
