@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/myWebPage/static/css/main.c1f662f3.css",
-    "main.js": "/myWebPage/static/js/main.9c5f0a72.js",
+    "main.css": "/myWebPage/static/css/main.2b152a8c.css",
+    "main.js": "/myWebPage/static/js/main.1147b2ef.js",
     "static/js/787.28cb0dcd.chunk.js": "/myWebPage/static/js/787.28cb0dcd.chunk.js",
+    "static/media/androidLogo.png": "/myWebPage/static/media/androidLogo.8a81ac4da2816855eac7.png",
+    "static/media/kotlin-logo.png": "/myWebPage/static/media/kotlin-logo.0e22a842339118ef9a10.png",
     "static/media/Blaka-Regular.ttf": "/myWebPage/static/media/Blaka-Regular.7d3730de71b2d9ed9e29.ttf",
+    "static/media/react-logo.png": "/myWebPage/static/media/react-logo.5b882cd7d7a0bfb119b8.png",
     "index.html": "/myWebPage/index.html",
-    "main.c1f662f3.css.map": "/myWebPage/static/css/main.c1f662f3.css.map",
-    "main.9c5f0a72.js.map": "/myWebPage/static/js/main.9c5f0a72.js.map",
+    "main.2b152a8c.css.map": "/myWebPage/static/css/main.2b152a8c.css.map",
+    "main.1147b2ef.js.map": "/myWebPage/static/js/main.1147b2ef.js.map",
     "787.28cb0dcd.chunk.js.map": "/myWebPage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f662f3.css",
-    "static/js/main.9c5f0a72.js"
+    "static/css/main.2b152a8c.css",
+    "static/js/main.1147b2ef.js"
   ]
 }
