@@ -18,7 +18,8 @@ function App() {
     setDashboardItemSelected(data)
   }
   return (
-    <div className='  w-[100vw] h-[100vh] flex bg-[#931621]'>
+    <div className='  w-[100vw] h-[100vh] flex bg-[#931621] relative'>
+      <div className='font-sans font-light text-[10px] text-white absolute right-1 bottom-0'>v0.9.0</div>
       <div className="w-[20%] h-full ">
         <PersonalInfo showContactInfo={showContactInfo} />
       </div>
