@@ -4,7 +4,7 @@ import MasInfo from '../../component/mas-info'
 import Ahora from '../../component/ahora'
 
 
-const Navbar = ({ updateShowContact, onClickNavbar }) => {
+const Navbar = ({ updateShowContact, onClickNavbar, onSelectShowPalette }) => {
     return (
         <div className='  w-full '>
             <div className="p-4 ">
@@ -29,7 +29,8 @@ const Navbar = ({ updateShowContact, onClickNavbar }) => {
                             AHORA
                         </div>
                     </div>
-                    <div className='w-[20%] cursor-pointer rounded-r-3xl group hover:bg-black p-2 hover:text-[#62BBC1] hover: text-center '>
+                    {/* onClick={() => onSelectShowPalette('warning', 'Desactivado')} */}
+                    <div className='w-[20%] cursor-not-allowed select-none rounded-r-3xl group hover:bg-black p-2 hover:text-[#62BBC1] hover: text-center '>
                         <div className="group-hover:drop-shadow-[1px_2px_0_#931621] text-xl">
                             PALETTA
                         </div>

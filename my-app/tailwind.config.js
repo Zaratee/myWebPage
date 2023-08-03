@@ -13,6 +13,11 @@ module.exports = {
         'yo-color-3': '#30332E',
         'yo-color-4': '#FFFBFC',
         'yo-color-5': '#62BBC1',
+        'alert-warning-700': '#a16207',
+        'alert-warning-300': '#fef9c3',
+      },
+      dropShadow: {
+        'warning': '0 35px 35px rgba(161, 98, 7, 1)',
       }
     },
 

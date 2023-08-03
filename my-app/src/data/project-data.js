@@ -15,12 +15,23 @@ export const allTechno = [
     { name: 'Android Studio', logo: androidLogo }
 ]
 
+export const portafolioInfo = {
+    name: 'My portafolio',
+    techno: { name: 'React', logo: reactLogo },
+    description: 'Aplicación web para mostrar mis',
+    gitUrl: 'https://github.com/Zaratee/myWebPage/tree/main',
+    image: [],
+    type: 'Personal Proyecto',
+    lenguages: [{ name: 'HTML', logo: hmtlLogo }],
+    package: ['Tailwind']
+}
+
 export const allProjects = [
     {
         name: 'Gestión de citas acupunturista',
         techno: { name: 'Android Studio', logo: androidLogo },
         description: 'Aplicación para un consultorio de acupuntura, que ayuda a la gestion de citas, hacer citas y espacio para hacer publicaciones como doctor',
-        gitUrl: '',
+        gitUrl: 'https://github.com/Zaratee/myWebPage',
         image: [],
         type: 'Freelance',
         lenguages: [{ name: 'Java', logo: javaLogo }],
