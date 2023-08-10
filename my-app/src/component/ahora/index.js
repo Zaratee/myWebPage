@@ -2,10 +2,10 @@ import React from 'react'
 import eriImg from '../../assets/eri.jpg'
 const Ahora = () => {
     return (
-        <div className='h-full w-full flex justify-center items-center overflow-hidden  '>
-            <div className=' card bg-white border-[#62BBC1] border-[4px] drop-shadow-[7px_6px_0_#000] w-[70%] p-4 flex items-center justify-center'>
+        <div className='h-full w-full flex justify-center items-center   '>
+            <div className=' card bg-white border-[#62BBC1] border-[4px] drop-shadow-[8px_8px_0_#000] w-[70%] p-4 flex items-center justify-center'>
                 <div className='w-[50%] h-fit bg-slate-100 border border-slate-300 rounded-md p-3 flex flex-col items-start'>
-                    <div className='w-full font-sans text-center italic font-bold text-2xl mb-2'> Actual</div>
+                    <div className='w-full font-sans text-center italic font-bold text-2xl mb-2'> Hoy</div>
                     <div className='font-sans text-base'>
                         <div className='flex gap-2 items-center justify-center'>
                             <span class="relative flex h-3 w-3 ">
