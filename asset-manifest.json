@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myWebPage/static/css/main.04247933.css",
-    "main.js": "/myWebPage/static/js/main.a786375c.js",
+    "main.js": "/myWebPage/static/js/main.90ca423a.js",
     "static/js/787.28cb0dcd.chunk.js": "/myWebPage/static/js/787.28cb0dcd.chunk.js",
     "static/media/eri.jpg": "/myWebPage/static/media/eri.0f10b980bf93dedaeaf2.jpg",
     "static/media/androidLogo.png": "/myWebPage/static/media/androidLogo.8a81ac4da2816855eac7.png",
@@ -14,11 +14,11 @@
     "static/media/html-logo.png": "/myWebPage/static/media/html-logo.a92a549a591f4acb527a.png",
     "index.html": "/myWebPage/index.html",
     "main.04247933.css.map": "/myWebPage/static/css/main.04247933.css.map",
-    "main.a786375c.js.map": "/myWebPage/static/js/main.a786375c.js.map",
+    "main.90ca423a.js.map": "/myWebPage/static/js/main.90ca423a.js.map",
     "787.28cb0dcd.chunk.js.map": "/myWebPage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04247933.css",
-    "static/js/main.a786375c.js"
+    "static/js/main.90ca423a.js"
   ]
 }
