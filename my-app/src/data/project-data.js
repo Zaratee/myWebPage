@@ -28,17 +28,17 @@ export const portafolioInfo = {
 
 export const allProjects = [
     {
-        name: 'Gestión de citas acupunturista',
+        name: 'Gestor de citas acupunturista',
         techno: { name: 'Android Studio', logo: androidLogo },
         description: 'Aplicación para un consultorio de acupuntura, que ayuda a la gestion de citas, hacer citas y espacio para hacer publicaciones como doctor',
-        gitUrl: 'https://github.com/Zaratee/myWebPage',
+        gitUrl: '',
         image: [],
         type: 'Freelance',
         lenguages: [{ name: 'Java', logo: javaLogo }],
         package: []
     },
     {
-        name: 'Deportivo Morelos usuarios',
+        name: 'Sistema Deportivo Fútbol usuarios',
         techno: { name: 'React', logo: reactLogo },
         description: 'Sistema personalizado para la visualización de liguillas',
         gitUrl: '',
@@ -48,7 +48,7 @@ export const allProjects = [
         package: ['Tailwind', 'Next.js ']
     },
     {
-        name: 'Deportivo Morelos admin',
+        name: 'Sistema Deportivo Fútbol admin',
         techno: { name: 'React', logo: reactLogo },
         description: 'Sistema personalizado para la gestión de liguillas',
         gitUrl: '',
@@ -68,13 +68,23 @@ export const allProjects = [
         package: []
     },
     {
+        name: 'Marvel api',
+        techno: { name: 'React', logo: reactLogo },
+        description: 'Aplicación web haciendo uso de Fetch con la api Marvel y manejando los datos con Redux',
+        gitUrl: 'https://9kt63y.csb.app/',
+        image: [],
+        type: 'Personal Proyecto',
+        lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
+        package: ['Redux', 'Fetch', 'MarvelAPI']
+    },
+    {
         name: 'Animal Selector',
         techno: { name: 'React', logo: reactLogo },
         description: 'Aplicación web para hacer uso tecnología de React Router',
         gitUrl: 'https://github.com/Zaratee/reactRouterProject',
         image: [],
         type: 'Personal Proyecto',
-        lenguages: [{ name: 'TypeScript', logo: typeScriptLogo }, { name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
+        lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
         package: ['Tailwind', 'React Router']
     },
     {
