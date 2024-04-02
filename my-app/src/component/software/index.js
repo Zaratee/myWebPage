@@ -22,7 +22,7 @@ const Software = ({ techDashboardSelected = null }) => {
                                 </>
                             )
                         })
-                        : allProjects.filter(project => project.techno.name === techSelected).sort(() => Math.random() - 0.5).map((project) => {
+                        : allProjects.filter(project => project.techno.name === techSelected).map((project) => {
                             return (
                                 <>
                                     <Project project={project} />

@@ -70,7 +70,7 @@ export const allProjects = [
     {
         name: 'Marvel api',
         techno: { name: 'React', logo: reactLogo },
-        description: 'Aplicación web haciendo uso de Fetch con la api Marvel y manejando los datos con Redux',
+        description: 'Aplicación web haciendo uso de Fetch con MarvelAPI y manejando los datos con Redux',
         gitUrl: 'https://9kt63y.csb.app/',
         image: [],
         type: 'Personal Proyecto',
@@ -78,14 +78,24 @@ export const allProjects = [
         package: ['Redux', 'Fetch', 'MarvelAPI']
     },
     {
-        name: 'Animal Selector',
+        name: 'Calendar io',
         techno: { name: 'React', logo: reactLogo },
-        description: 'Aplicación web para hacer uso tecnología de React Router',
-        gitUrl: 'https://github.com/Zaratee/reactRouterProject',
+        description: 'Calendario con asignacion de eventos',
+        gitUrl: 'https://6ddwp6.csb.app/',
         image: [],
         type: 'Personal Proyecto',
         lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
-        package: ['Tailwind', 'React Router']
+        package: ['Redux', 'Fetch', 'API', 'LocalStorage', 'TailWind' ]
+    },
+    {
+        name: 'Calculadora',
+        techno: { name: 'Android Studio', logo: androidLogo },
+        description: 'Aplicación de calculadora',
+        gitUrl: 'https://github.com/Zaratee/Calculator',
+        image: [],
+        type: 'Personal Proyecto',
+        lenguages: [{ name: 'Kotlin', logo: kotlinLogo }],
+        package: []
     },
     {
         name: 'Responsive Grid',
@@ -98,6 +108,16 @@ export const allProjects = [
         package: []
     },
     {
+        name: 'Vue Course',
+        techno: { name: 'Vue', logo: vueLogo },
+        description: 'Curso de Vue',
+        gitUrl: 'https://zhlgwx.csb.app/',
+        image: [],
+        type: 'Personal Proyecto',
+        lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
+        package: []
+    },
+    {
         name: 'Todo list',
         techno: { name: 'React', logo: reactLogo },
         description: 'Todo app hecho con Redux',
@@ -106,6 +126,16 @@ export const allProjects = [
         type: 'Personal Proyecto',
         lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
         package: ['Redux']
+    },
+    {
+        name: 'Animal Selector',
+        techno: { name: 'React', logo: reactLogo },
+        description: 'Aplicación web para hacer uso tecnología de React Router',
+        gitUrl: 'https://github.com/Zaratee/reactRouterProject',
+        image: [],
+        type: 'Personal Proyecto',
+        lenguages: [{ name: 'JavaScript', logo: javaScriptLogo }, { name: 'HTML', logo: hmtlLogo }, { name: 'CSS', logo: cssLogo }],
+        package: ['Tailwind', 'React Router']
     },
     {
         name: 'Pokedex',
@@ -132,16 +162,6 @@ export const allProjects = [
         techno: { name: 'Android Studio', logo: androidLogo },
         description: 'Herramienta para hacer conversión de años a minutos',
         gitUrl: 'https://github.com/Zaratee/AgeInMinutes',
-        image: [],
-        type: 'Personal Proyecto',
-        lenguages: [{ name: 'Kotlin', logo: kotlinLogo }],
-        package: []
-    },
-    {
-        name: 'Calculadora',
-        techno: { name: 'Android Studio', logo: androidLogo },
-        description: 'Aplicación de calculadora',
-        gitUrl: 'https://github.com/Zaratee/Calculator',
         image: [],
         type: 'Personal Proyecto',
         lenguages: [{ name: 'Kotlin', logo: kotlinLogo }],
