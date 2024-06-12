@@ -24,8 +24,8 @@ Old portafolio using
 |:----------:|
 | <img src="/design/NowSection.png" alt="drawing" height="400"/> |
 
-#Host
-  [GitHub_Pages]((https://zaratee.github.io/myWebPage))
+# Host
+  [GitHub_Pages](https://zaratee.github.io/myWebPage)
 
 
 
