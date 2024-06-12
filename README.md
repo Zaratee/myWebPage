@@ -2,8 +2,6 @@
 Old portafolio using 
 - Tailwind
 - AnimeJs
-  [GitHub Pages]([https://link-url-here.org](https://zaratee.github.io/myWebPage))
-
 
 # Design
  |     Landing Page    |
@@ -25,6 +23,9 @@ Old portafolio using
 |  Now Section |      
 |:----------:|
 | <img src="/design/NowSection.png" alt="drawing" height="400"/> |
+
+#Host
+  [GitHub_Pages]((https://zaratee.github.io/myWebPage))
 
 
 
