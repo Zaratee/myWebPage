@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from './layout/navbar';
 import PersonalInfo from './layout/personal-info';
-import Technologies from './component/technologies/index';
 import Software from './component/software';
 import Alert from './component/alert';
+import Technologies from './component/technologies';
 
 function App() {
   const [showContactInfo, setShowContactInfo] = useState(false)
